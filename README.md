@@ -1,5 +1,5 @@
-### Program Sederhana Mengelola Data Mahasiswa di Universitas
+# Program Sederhana Mengelola Data Mahasiswa di Universitas
 
-# Output program :
+## Output program :
 
 ![My Image](1214.png)
