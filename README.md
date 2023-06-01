@@ -1,1 +1,1 @@
-## MENGELOLA DATA MAHASISWA DI SEBUAH UNIVERSITAS
+## Program Sederhana Mengelola Data Mahasiswa di Universitas
