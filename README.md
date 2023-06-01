@@ -2,4 +2,4 @@
 
 #Output program :
 
-![My Image](1214.jpg)
+![My Image](1214.png)
